@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/test2/static/css/main.3dc683af.css",
-    "main.js": "/test2/static/js/main.5c1fba63.js",
+    "main.css": "/test2/static/css/main.124d2292.css",
+    "main.js": "/test2/static/js/main.f4fe272b.js",
     "static/media/魔力注入3.png": "/test2/static/media/魔力注入3.413f06a0055769aa7f8e.png",
     "static/media/魔力注入1.png": "/test2/static/media/魔力注入1.0bf0f3a4f2fa1e493812.png",
     "static/media/魔力オーバー1.png": "/test2/static/media/魔力オーバー1.98bbf0d43a61bc6ac1a5.png",
@@ -164,11 +164,11 @@
     "static/media/鍛造s.png": "/test2/static/media/鍛造s.fc9066ca0c4b2884887b.png",
     "static/media/techniqueCard1.bmp": "/test2/static/media/techniqueCard1.0d21b28b6eb0ea95a511.bmp",
     "index.html": "/test2/index.html",
-    "main.3dc683af.css.map": "/test2/static/css/main.3dc683af.css.map",
-    "main.5c1fba63.js.map": "/test2/static/js/main.5c1fba63.js.map"
+    "main.124d2292.css.map": "/test2/static/css/main.124d2292.css.map",
+    "main.f4fe272b.js.map": "/test2/static/js/main.f4fe272b.js.map"
   },
   "entrypoints": [
-    "static/css/main.3dc683af.css",
-    "static/js/main.5c1fba63.js"
+    "static/css/main.124d2292.css",
+    "static/js/main.f4fe272b.js"
   ]
 }
