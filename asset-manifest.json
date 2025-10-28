@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/test2/static/css/main.f82fad53.css",
-    "main.js": "/test2/static/js/main.33032335.js",
+    "main.js": "/test2/static/js/main.7618e517.js",
     "static/media/魔力注入3.png": "/test2/static/media/魔力注入3.413f06a0055769aa7f8e.png",
     "static/media/魔力注入1.png": "/test2/static/media/魔力注入1.0bf0f3a4f2fa1e493812.png",
     "static/media/魔力オーバー1.png": "/test2/static/media/魔力オーバー1.98bbf0d43a61bc6ac1a5.png",
@@ -168,10 +168,10 @@
     "static/media/techniqueCard1.bmp": "/test2/static/media/techniqueCard1.0d21b28b6eb0ea95a511.bmp",
     "index.html": "/test2/index.html",
     "main.f82fad53.css.map": "/test2/static/css/main.f82fad53.css.map",
-    "main.33032335.js.map": "/test2/static/js/main.33032335.js.map"
+    "main.7618e517.js.map": "/test2/static/js/main.7618e517.js.map"
   },
   "entrypoints": [
     "static/css/main.f82fad53.css",
-    "static/js/main.33032335.js"
+    "static/js/main.7618e517.js"
   ]
 }
