@@ -1,7 +1,8 @@
 {
   "files": {
-    "main.css": "/test2/static/css/main.f82fad53.css",
-    "main.js": "/test2/static/js/main.3919ebd2.js",
+    "main.css": "/test2/static/css/main.72ee0d6e.css",
+    "main.js": "/test2/static/js/main.b197f310.js",
+    "static/media/50youtube_guruguru_rend.gif": "/test2/static/media/50youtube_guruguru_rend.6cb8557ab318fcdb33ca.gif",
     "static/media/魔力注入3.png": "/test2/static/media/魔力注入3.413f06a0055769aa7f8e.png",
     "static/media/魔力注入1.png": "/test2/static/media/魔力注入1.0bf0f3a4f2fa1e493812.png",
     "static/media/魔力オーバー1.png": "/test2/static/media/魔力オーバー1.98bbf0d43a61bc6ac1a5.png",
@@ -165,13 +166,12 @@
     "static/media/蒸留.png": "/test2/static/media/蒸留.49eeb58a160c78c0dd5b.png",
     "static/media/調味.png": "/test2/static/media/調味.3a0d2de464311be75a79.png",
     "static/media/焼く.png": "/test2/static/media/焼く.15732e34464126004384.png",
-    "static/media/techniqueCard1.bmp": "/test2/static/media/techniqueCard1.0d21b28b6eb0ea95a511.bmp",
     "index.html": "/test2/index.html",
-    "main.f82fad53.css.map": "/test2/static/css/main.f82fad53.css.map",
-    "main.3919ebd2.js.map": "/test2/static/js/main.3919ebd2.js.map"
+    "main.72ee0d6e.css.map": "/test2/static/css/main.72ee0d6e.css.map",
+    "main.b197f310.js.map": "/test2/static/js/main.b197f310.js.map"
   },
   "entrypoints": [
-    "static/css/main.f82fad53.css",
-    "static/js/main.3919ebd2.js"
+    "static/css/main.72ee0d6e.css",
+    "static/js/main.b197f310.js"
   ]
 }
