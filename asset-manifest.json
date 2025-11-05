@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/test2/static/css/main.b7590b41.css",
-    "main.js": "/test2/static/js/main.e8e2873f.js",
+    "main.css": "/test2/static/css/main.387ab16c.css",
+    "main.js": "/test2/static/js/main.e27a4df2.js",
     "static/media/50youtube_guruguru_rend.gif": "/test2/static/media/50youtube_guruguru_rend.6cb8557ab318fcdb33ca.gif",
     "static/media/魔力注入3.png": "/test2/static/media/魔力注入3.413f06a0055769aa7f8e.png",
     "static/media/魔力注入1.png": "/test2/static/media/魔力注入1.0bf0f3a4f2fa1e493812.png",
@@ -171,11 +171,11 @@
     "static/media/調味.png": "/test2/static/media/調味.3a0d2de464311be75a79.png",
     "static/media/焼く.png": "/test2/static/media/焼く.15732e34464126004384.png",
     "index.html": "/test2/index.html",
-    "main.b7590b41.css.map": "/test2/static/css/main.b7590b41.css.map",
-    "main.e8e2873f.js.map": "/test2/static/js/main.e8e2873f.js.map"
+    "main.387ab16c.css.map": "/test2/static/css/main.387ab16c.css.map",
+    "main.e27a4df2.js.map": "/test2/static/js/main.e27a4df2.js.map"
   },
   "entrypoints": [
-    "static/css/main.b7590b41.css",
-    "static/js/main.e8e2873f.js"
+    "static/css/main.387ab16c.css",
+    "static/js/main.e27a4df2.js"
   ]
 }
