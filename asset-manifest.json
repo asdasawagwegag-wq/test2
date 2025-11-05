@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/test2/static/css/main.72ee0d6e.css",
-    "main.js": "/test2/static/js/main.5dd14b2b.js",
+    "main.js": "/test2/static/js/main.ac1c34ab.js",
     "static/media/50youtube_guruguru_rend.gif": "/test2/static/media/50youtube_guruguru_rend.6cb8557ab318fcdb33ca.gif",
     "static/media/魔力注入3.png": "/test2/static/media/魔力注入3.413f06a0055769aa7f8e.png",
     "static/media/魔力注入1.png": "/test2/static/media/魔力注入1.0bf0f3a4f2fa1e493812.png",
@@ -104,6 +104,7 @@
     "static/media/かき氷.png": "/test2/static/media/かき氷.fea886cb777dd92cbf62.png",
     "static/media/甘辛ドライフルーツ.png": "/test2/static/media/甘辛ドライフルーツ.2f0d2f5e9116fd0599a2.png",
     "static/media/塩味コーンチップス.png": "/test2/static/media/塩味コーンチップス.8ebbe617ad3162f64905.png",
+    "static/media/甘豆かき氷.png": "/test2/static/media/甘豆かき氷.5d8ec20a12694f1acbc2.png",
     "static/media/保温の木の鎧.png": "/test2/static/media/保温の木の鎧.7476568c1dee01e98339.png",
     "static/media/旨辛パン.png": "/test2/static/media/旨辛パン.01f68e61df3d2ddd7271.png",
     "static/media/ポップコーン.png": "/test2/static/media/ポップコーン.0f40260edfcaa1e7d614.png",
@@ -114,8 +115,10 @@
     "static/media/寒氷の解毒粉.png": "/test2/static/media/寒氷の解毒粉.9f721e876cc6f52a3189.png",
     "static/media/カリカリマンダラ.png": "/test2/static/media/カリカリマンダラ.2506ef490b2bc159e5d0.png",
     "static/media/火避けの指輪.png": "/test2/static/media/火避けの指輪.019b4bda6e24c8f0150d.png",
+    "static/media/風向き探知の杖.png": "/test2/static/media/風向き探知の杖.e1dadbe1f8a0dd37b996.png",
     "static/media/ミスリルのすり鉢.png": "/test2/static/media/ミスリルのすり鉢.5b7c2fb95a7aab48490d.png",
     "static/media/銀の抽出瓶.png": "/test2/static/media/銀の抽出瓶.932ecbd2cea4ce1717ed.png",
+    "static/media/保冷ジェル.png": "/test2/static/media/保冷ジェル.9dd9454fd3ba41899a48.png",
     "static/media/火毒の剣.png": "/test2/static/media/火毒の剣.49a331066bb4ff1330cb.png",
     "static/media/防火ヘルメット.png": "/test2/static/media/防火ヘルメット.76f0e564e6dcb4568e38.png",
     "static/media/鈍重な防火服.png": "/test2/static/media/鈍重な防火服.85e0f0140d0a2bfb7121.png",
@@ -123,6 +126,7 @@
     "static/media/保温の銅鍋.png": "/test2/static/media/保温の銅鍋.cd4e78e8dd65ab556813.png",
     "static/media/ピンクの干しキノコ.png": "/test2/static/media/ピンクの干しキノコ.62122297a1d1299db7a4.png",
     "static/media/温もり粉.png": "/test2/static/media/温もり粉.ee020c24aaa445d5afca.png",
+    "static/media/甘豆ジュース.png": "/test2/static/media/甘豆ジュース.789fcac21eaa2f296573.png",
     "static/media/トースト.png": "/test2/static/media/トースト.dadc8efe073a970bef7d.png",
     "static/media/痛み止め.png": "/test2/static/media/痛み止め.d8b4836e2de6303d7ecc.png",
     "static/media/丸パン.png": "/test2/static/media/丸パン.400a8ceb35f962cf6eff.png",
@@ -168,10 +172,10 @@
     "static/media/焼く.png": "/test2/static/media/焼く.15732e34464126004384.png",
     "index.html": "/test2/index.html",
     "main.72ee0d6e.css.map": "/test2/static/css/main.72ee0d6e.css.map",
-    "main.5dd14b2b.js.map": "/test2/static/js/main.5dd14b2b.js.map"
+    "main.ac1c34ab.js.map": "/test2/static/js/main.ac1c34ab.js.map"
   },
   "entrypoints": [
     "static/css/main.72ee0d6e.css",
-    "static/js/main.5dd14b2b.js"
+    "static/js/main.ac1c34ab.js"
   ]
 }
