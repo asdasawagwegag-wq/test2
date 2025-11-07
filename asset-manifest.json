@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/test2/static/css/main.939b9852.css",
-    "main.js": "/test2/static/js/main.88ca06e7.js",
+    "main.js": "/test2/static/js/main.a1f8d1ce.js",
     "static/media/50youtube_guruguru_rend.gif": "/test2/static/media/50youtube_guruguru_rend.6cb8557ab318fcdb33ca.gif",
     "static/media/魔力注入3.png": "/test2/static/media/魔力注入3.413f06a0055769aa7f8e.png",
     "static/media/魔力注入1.png": "/test2/static/media/魔力注入1.0bf0f3a4f2fa1e493812.png",
@@ -172,10 +172,10 @@
     "static/media/焼く.png": "/test2/static/media/焼く.15732e34464126004384.png",
     "index.html": "/test2/index.html",
     "main.939b9852.css.map": "/test2/static/css/main.939b9852.css.map",
-    "main.88ca06e7.js.map": "/test2/static/js/main.88ca06e7.js.map"
+    "main.a1f8d1ce.js.map": "/test2/static/js/main.a1f8d1ce.js.map"
   },
   "entrypoints": [
     "static/css/main.939b9852.css",
-    "static/js/main.88ca06e7.js"
+    "static/js/main.a1f8d1ce.js"
   ]
 }
