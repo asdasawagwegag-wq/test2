@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/test2/static/css/main.939b9852.css",
-    "main.js": "/test2/static/js/main.a1f8d1ce.js",
+    "main.js": "/test2/static/js/main.3c572453.js",
     "static/media/50youtube_guruguru_rend.gif": "/test2/static/media/50youtube_guruguru_rend.6cb8557ab318fcdb33ca.gif",
     "static/media/魔力注入3.png": "/test2/static/media/魔力注入3.413f06a0055769aa7f8e.png",
     "static/media/魔力注入1.png": "/test2/static/media/魔力注入1.0bf0f3a4f2fa1e493812.png",
@@ -93,6 +93,7 @@
     "static/media/鉄の調合プレート.png": "/test2/static/media/鉄の調合プレート.36f52c95ef1e6150ffd5.png",
     "static/media/鍛造工房.png": "/test2/static/media/鍛造工房.8e132b65c4b0e39da440.png",
     "static/media/スパイシーキノコ炒め.png": "/test2/static/media/スパイシーキノコ炒め.cc4e866327f03625e4f5.png",
+    "static/media/かゆみ止めボール.png": "/test2/static/media/かゆみ止めボール.71106dc421eea607ae47.png",
     "static/media/安らぎの温もり粉.png": "/test2/static/media/安らぎの温もり粉.4a8387097bc5ac48db17.png",
     "static/media/大地のフラットブレッド.png": "/test2/static/media/大地のフラットブレッド.4bedde6cc9a7f415f9ce.png",
     "static/media/保温の鉄箱.png": "/test2/static/media/保温の鉄箱.b36736e0f0274f449928.png",
@@ -100,6 +101,7 @@
     "static/media/薬草の陳列プレート.png": "/test2/static/media/薬草の陳列プレート.bb65d681f5b30f552ce9.png",
     "static/media/不思議砂糖漬け.png": "/test2/static/media/不思議砂糖漬け.0dfeddf278aa64d1b984.png",
     "static/media/安らぎのアロマ石.png": "/test2/static/media/安らぎのアロマ石.1649196aecb423157c3a.png",
+    "static/media/高硬度アーマー.png": "/test2/static/media/高硬度アーマー.c90d61c46d03515d2a4b.png",
     "static/media/銅のマスク.png": "/test2/static/media/銅のマスク.a9c9d26abdca1b10750a.png",
     "static/media/かき氷.png": "/test2/static/media/かき氷.fea886cb777dd92cbf62.png",
     "static/media/甘辛ドライフルーツ.png": "/test2/static/media/甘辛ドライフルーツ.2f0d2f5e9116fd0599a2.png",
@@ -114,11 +116,12 @@
     "static/media/寒氷のナイフ.png": "/test2/static/media/寒氷のナイフ.4021d7d990cdbd5c56d8.png",
     "static/media/寒氷の解毒粉.png": "/test2/static/media/寒氷の解毒粉.9f721e876cc6f52a3189.png",
     "static/media/カリカリマンダラ.png": "/test2/static/media/カリカリマンダラ.2506ef490b2bc159e5d0.png",
+    "static/media/高硬度ヘルム.png": "/test2/static/media/高硬度ヘルム.a19250bfb668245df6c6.png",
     "static/media/火避けの指輪.png": "/test2/static/media/火避けの指輪.019b4bda6e24c8f0150d.png",
     "static/media/風向き探知の杖.png": "/test2/static/media/風向き探知の杖.e1dadbe1f8a0dd37b996.png",
     "static/media/ミスリルのすり鉢.png": "/test2/static/media/ミスリルのすり鉢.5b7c2fb95a7aab48490d.png",
-    "static/media/銀の抽出瓶.png": "/test2/static/media/銀の抽出瓶.932ecbd2cea4ce1717ed.png",
     "static/media/保冷ジェル.png": "/test2/static/media/保冷ジェル.9dd9454fd3ba41899a48.png",
+    "static/media/銀の抽出瓶.png": "/test2/static/media/銀の抽出瓶.932ecbd2cea4ce1717ed.png",
     "static/media/火毒の剣.png": "/test2/static/media/火毒の剣.49a331066bb4ff1330cb.png",
     "static/media/防火ヘルメット.png": "/test2/static/media/防火ヘルメット.76f0e564e6dcb4568e38.png",
     "static/media/鈍重な防火服.png": "/test2/static/media/鈍重な防火服.85e0f0140d0a2bfb7121.png",
@@ -172,10 +175,10 @@
     "static/media/焼く.png": "/test2/static/media/焼く.15732e34464126004384.png",
     "index.html": "/test2/index.html",
     "main.939b9852.css.map": "/test2/static/css/main.939b9852.css.map",
-    "main.a1f8d1ce.js.map": "/test2/static/js/main.a1f8d1ce.js.map"
+    "main.3c572453.js.map": "/test2/static/js/main.3c572453.js.map"
   },
   "entrypoints": [
     "static/css/main.939b9852.css",
-    "static/js/main.a1f8d1ce.js"
+    "static/js/main.3c572453.js"
   ]
 }
