@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/test2/static/css/main.939b9852.css",
-    "main.js": "/test2/static/js/main.3c572453.js",
+    "main.js": "/test2/static/js/main.91f080cf.js",
     "static/media/50youtube_guruguru_rend.gif": "/test2/static/media/50youtube_guruguru_rend.6cb8557ab318fcdb33ca.gif",
     "static/media/魔力注入3.png": "/test2/static/media/魔力注入3.413f06a0055769aa7f8e.png",
     "static/media/魔力注入1.png": "/test2/static/media/魔力注入1.0bf0f3a4f2fa1e493812.png",
@@ -80,18 +80,22 @@
     "static/media/幻覚スープ.png": "/test2/static/media/幻覚スープ.f67167e46be67ff1b13d.png",
     "static/media/温もりのアロマ石.png": "/test2/static/media/温もりのアロマ石.5d7993ea492ab7af4aee.png",
     "static/media/濃縮幻覚スープ.png": "/test2/static/media/濃縮幻覚スープ.7abbd76e324d6a86da77.png",
+    "static/media/甘豆キャンディ.png": "/test2/static/media/甘豆キャンディ.09db9367a2d5fdaeea76.png",
     "static/media/基礎解毒剤.png": "/test2/static/media/基礎解毒剤.adf66672299a16f1902d.png",
     "static/media/毒除けの香り袋.png": "/test2/static/media/毒除けの香り袋.9e857f8c1da9e253a196.png",
     "static/media/複合解毒剤.png": "/test2/static/media/複合解毒剤.8a7480421cd6835e48d8.png",
     "static/media/ピンクのキノコスープ.png": "/test2/static/media/ピンクのキノコスープ.dd8965a3b472541c49ca.png",
     "static/media/防毒の石割りハンマー.png": "/test2/static/media/防毒の石割りハンマー.7e111af06808c65e6989.png",
     "static/media/温もりの岩の鎧.png": "/test2/static/media/温もりの岩の鎧.a95358348cb1da1cd6e6.png",
+    "static/media/はじけるキャンディ.png": "/test2/static/media/はじけるキャンディ.a9a650aeada82485be37.png",
     "static/media/大地の解毒粉.png": "/test2/static/media/大地の解毒粉.7b5b22429b2fd15697bb.png",
     "static/media/壮健の砂糖漬け串.png": "/test2/static/media/壮健の砂糖漬け串.1146edd31a96c029d242.png",
     "static/media/吹雪瓶.png": "/test2/static/media/吹雪瓶.5068f0730bd2572c8f6d.png",
     "static/media/パンケーキ.png": "/test2/static/media/パンケーキ.0f92dddaab21732c363b.png",
     "static/media/鉄の調合プレート.png": "/test2/static/media/鉄の調合プレート.36f52c95ef1e6150ffd5.png",
     "static/media/鍛造工房.png": "/test2/static/media/鍛造工房.8e132b65c4b0e39da440.png",
+    "static/media/木のアロマ.png": "/test2/static/media/木のアロマ.da543e69d70e05aeae28.png",
+    "static/media/水のアロマ.png": "/test2/static/media/水のアロマ.088a474babcfca8a62bb.png",
     "static/media/スパイシーキノコ炒め.png": "/test2/static/media/スパイシーキノコ炒め.cc4e866327f03625e4f5.png",
     "static/media/かゆみ止めボール.png": "/test2/static/media/かゆみ止めボール.71106dc421eea607ae47.png",
     "static/media/安らぎの温もり粉.png": "/test2/static/media/安らぎの温もり粉.4a8387097bc5ac48db17.png",
@@ -107,6 +111,7 @@
     "static/media/甘辛ドライフルーツ.png": "/test2/static/media/甘辛ドライフルーツ.2f0d2f5e9116fd0599a2.png",
     "static/media/塩味コーンチップス.png": "/test2/static/media/塩味コーンチップス.8ebbe617ad3162f64905.png",
     "static/media/甘豆かき氷.png": "/test2/static/media/甘豆かき氷.5d8ec20a12694f1acbc2.png",
+    "static/media/鉱石模様の密封壺.png": "/test2/static/media/鉱石模様の密封壺.62ec05c1790d889fb8c8.png",
     "static/media/保温の木の鎧.png": "/test2/static/media/保温の木の鎧.7476568c1dee01e98339.png",
     "static/media/旨辛パン.png": "/test2/static/media/旨辛パン.01f68e61df3d2ddd7271.png",
     "static/media/ポップコーン.png": "/test2/static/media/ポップコーン.0f40260edfcaa1e7d614.png",
@@ -175,10 +180,10 @@
     "static/media/焼く.png": "/test2/static/media/焼く.15732e34464126004384.png",
     "index.html": "/test2/index.html",
     "main.939b9852.css.map": "/test2/static/css/main.939b9852.css.map",
-    "main.3c572453.js.map": "/test2/static/js/main.3c572453.js.map"
+    "main.91f080cf.js.map": "/test2/static/js/main.91f080cf.js.map"
   },
   "entrypoints": [
     "static/css/main.939b9852.css",
-    "static/js/main.3c572453.js"
+    "static/js/main.91f080cf.js"
   ]
 }
